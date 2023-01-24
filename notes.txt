@@ -1,0 +1,40 @@
+Prerequisites:
+
+- Text editor (VS code, Atom, Sublime Text, Notepad)
+- Web browser 
+
+Todos - to building the website
+
+1. Build the project 
+    - creating the folder
+    - adding files
+    - connecting files   
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolio item grid
+    - images 
+    - titles
+    - descriptions
+    - animations    
+    - javascript
+
+4. About page
+    - image
+    - split column layout
+    - content 
+
+5. Contact page 
+    - name and surname 
+    - email address
+    - postal address
+    - select 'field' with the problem
+    - 'Radio' buttons to determine how it receives the answer
+    - texting the details with the problem
+    - terms and conditions checkbox
+    - submit button
+    - all the fields - required
+    - contact page includes also a Google Maps
+
+
