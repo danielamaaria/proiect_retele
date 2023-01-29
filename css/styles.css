@@ -472,7 +472,7 @@ header.sticky{
     padding: 10px;
     border-radius: 2rem;
 }
-
+/* Responsive */
 @media (max-width: 1545px){
     header{
         padding: 22px 4%;
@@ -514,7 +514,7 @@ header.sticky{
         flex-direction: column;
         text-align: left;
         background: var(--other-color);
-        transition: all .50s ease;
+        transition: all .30s ease;
     }
     .navlist a{
         display: block;
