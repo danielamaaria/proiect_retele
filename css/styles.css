@@ -97,7 +97,6 @@ header{
     color: var(--text-color);
 }
 
-/* Sectiunea CSS */
 /* Home */
 section{
     padding: 70px 14% 60px;
@@ -229,6 +228,7 @@ header.sticky{
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-top: 19px;
     color: var(--main-color);
 }
 
@@ -476,15 +476,15 @@ header.sticky{
 @media (max-width: 1545px){
     header{
         padding: 22px 4%;
-        transition: .25s;
+        transition: .40s;
     }
     header.sticky{
         padding: 14px 4%;
-        transition: .25s;
+        transition: .40s;
     }
     section{
         padding: 50px 4% 40px;
-        transition: .25s;
+        transition: .40s;
     }
     .container{
         padding: 30px 4% 50px;
@@ -514,7 +514,7 @@ header.sticky{
         flex-direction: column;
         text-align: left;
         background: var(--other-color);
-        transition: all .25s ease;
+        transition: all .35s ease;
     }
     .navlist a{
         display: block;
