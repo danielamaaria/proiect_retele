@@ -176,7 +176,7 @@ header.sticky{
     text-align: center;
 }
 .container-box{
-    padding: 43px 43px 43px 43px;
+    padding: 44px 43px 43px 43px;
     background: var(--other-color);
     border-radius: 3rem;
 }
@@ -251,7 +251,7 @@ header.sticky{
 
 .row{
     position: relative;
-    padding: 10px 35px 40px;
+    padding: 10px 35px 45px;
     background: var(--other-color);
     border-radius: 3rem;
 }
@@ -384,6 +384,7 @@ header.sticky{
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
+    /* justify-items: center; */
 }
 
 .contact-img{
@@ -463,6 +464,9 @@ header.sticky{
 }
 
 
+
+
+
 /* Contact Container */
 .body-content{
     width: 100%;
@@ -500,6 +504,9 @@ header.sticky{
     display: grid;
     row-gap: 1rem;
 }
+
+
+
 
 .contact-form input, 
 .contact-form textarea{
